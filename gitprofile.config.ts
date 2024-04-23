@@ -33,15 +33,33 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Particle Sense',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Developed the backend used by the Particle Sense Sensor management app',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://play-lh.googleusercontent.com/tutQpiBgnkhUbBi5DfWUJZNBqzeFWnnrwt8dzOKe_0ouxAJu4GkyI71H4epwHa5Bs8Q=w240-h480-rw',
+          link: 'https://apps.apple.com/us/app/particlesense-sensor-manager/id1549554629',
         },
         {
-          title: 'Project Name',
+          title: 'Pollen Wise',
+          description:
+            'Developed the backend used by the Pollen Wise Consumer app',
+          imageUrl:
+            'https://play-lh.googleusercontent.com/2OeS9-BaBX9Dp4hjJ3k2pQeg8wFg2umHDTqLFOdcI3CCYpyTbO6HOZP6gOkLYxaMIL0X=w240-h480-rw',
+          link: 'https://apps.apple.com/us/app/pollen-wise/id1474856970',
+        },
+        
+        {
+          title: 'Pollen Sense Public APIs',
+          description:
+            'Designed and implemented the moddeling system used by microsoft and other large companies',
+          imageUrl:
+            'https://assets-global.website-files.com/5f89c9bc7ce1cb5647f27ccc/5f9afc2c43b65f1335a34507_Maps%20composite%20for%20API.jpg',
+          link: 'https://www.pollensense.com/',
+        },
+        
+        {
+          title: 'Pollen Wise',
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
@@ -52,7 +70,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Caiden Kehrer',
     description: '',
     imageURL: '',
   },
