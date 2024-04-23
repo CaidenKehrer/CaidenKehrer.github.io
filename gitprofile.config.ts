@@ -35,7 +35,7 @@ const CONFIG = {
         {
           title: 'Particle Sense',
           description:
-            'Developed the backend used by the Particle Sense Sensor management app',
+            'Developed the backend used by the Particle Sense Sensor management app to allow Pollen Sense sensor owners to manage and control their Automated Particulate Sensor.',
           imageUrl:
             'https://play-lh.googleusercontent.com/tutQpiBgnkhUbBi5DfWUJZNBqzeFWnnrwt8dzOKe_0ouxAJu4GkyI71H4epwHa5Bs8Q=w240-h480-rw',
           link: 'https://apps.apple.com/us/app/particlesense-sensor-manager/id1549554629',
@@ -43,28 +43,28 @@ const CONFIG = {
         {
           title: 'Pollen Wise',
           description:
-            'Developed the backend used by the Pollen Wise Consumer app',
+            'Developed the backend used by the Pollen Wise consumer app to allow users to understand the particulates in the air around them.',
           imageUrl:
             'https://play-lh.googleusercontent.com/2OeS9-BaBX9Dp4hjJ3k2pQeg8wFg2umHDTqLFOdcI3CCYpyTbO6HOZP6gOkLYxaMIL0X=w240-h480-rw',
           link: 'https://apps.apple.com/us/app/pollen-wise/id1474856970',
         },
         
         {
-          title: 'Pollen Sense Public APIs',
+          title: 'Pollen Sense Modeled data',
           description:
-            'Designed and implemented the moddeling system used by microsoft and other large companies',
+            'Designed and implemented the moddeling system used by Microsoft and other large companies to obtain predicted and measured data for mapping systems.',
           imageUrl:
             'https://assets-global.website-files.com/5f89c9bc7ce1cb5647f27ccc/5f9afc2c43b65f1335a34507_Maps%20composite%20for%20API.jpg',
-          link: 'https://www.pollensense.com/',
+          link: 'https://www.pollensense.com/pages/data-api',
         },
         
         {
-          title: 'Pollen Wise',
+          title: 'Pollen Sense Sensors',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Developed the automated particulate measurement system used by hundreds of sensors actively around the world to identify and categorize particulates at a microscopic scale.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://assets-global.website-files.com/5f89c9bc7ce1cb5647f27ccc/6214305326bef22f5a843a97_PS400-Transarent-1-Top%2C-Bottom-shadow-WEBRES.png',
+          link: 'https://www.pollensense.com/pages/automated-particle-sensors',
         },
       ],
     },
@@ -72,7 +72,7 @@ const CONFIG = {
   seo: {
     title: 'Portfolio of Caiden Kehrer',
     description: '',
-    imageURL: '',
+    imageURL: 'https://avatars.githubusercontent.com/u/11600425?v=4',
   },
   social: {
     linkedin: 'caiden-kehrer',
@@ -107,26 +107,31 @@ const CONFIG = {
     'PostgreSQL',
     'Git',
     'Docker',
-    '',
     'SCSS/CSS',
-    'Antd',
-    'Tailwind',
+    'Bootstrap',
   ],
   experiences: [
     {
       company: 'Pollen Sense',
-      position: 'Full Stack Developer/Database Manager/ API Developer',
+      position: 'Full Stack Developer / Database Manager / API Developer',
       from: 'April 2020',
       to: 'Present',
       companyLink: 'https://pollensense.com',
     },
-    // {
-    //   company: 'Digithought',
-    //   position: 'Software developer',
-    //   from: 'July 2019',
-    //   to: 'August 2021',
-    //   companyLink: 'https://example.com',
-    // },
+    {
+      company: 'English as a second Language Teacher',
+      position: 'Teacher',
+      from: '2018',
+      to: 'April 2020',
+      companyLink: 'https://example.com',
+    },
+    {
+      company: 'Digithought',
+      position: 'Software developer Intern',
+      from: '2017',
+      to: '2018',
+      companyLink: 'https://www.digithought.com/',
+    },
   ],
   certifications: [
     // {
