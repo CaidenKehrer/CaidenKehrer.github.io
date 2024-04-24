@@ -61,10 +61,18 @@ const CONFIG = {
         {
           title: 'Pollen Sense Sensors',
           description:
-            'Developed the automated particulate measurement system used by hundreds of sensors actively around the world to identify and categorize particulates at a microscopic scale.',
+            'Created the automated particulate measurement system used by hundreds of sensors actively around the world to identify and categorize particulates at a microscopic scale.',
           imageUrl:
             'https://assets-global.website-files.com/5f89c9bc7ce1cb5647f27ccc/6214305326bef22f5a843a97_PS400-Transarent-1-Top%2C-Bottom-shadow-WEBRES.png',
           link: 'https://www.pollensense.com/pages/automated-particle-sensors',
+        },
+        {
+          title: 'Azure Management',
+          description:
+            'Collaborated with other team members to maintain and operate multiple azure resources including VMs, Storage containers, Managed SQL server databases, and more',
+          imageUrl:
+            'https://swimburger.net/media/ppnn3pcl/azure.png',
+          link: 'https://azure.microsoft.com',
         },
       ],
     },
@@ -88,13 +96,13 @@ const CONFIG = {
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://www.caidenkehrer.com',
+    website: '',
     phone: '',
     email: 'caidenkehrer@gmail.com',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/13-bRPFfmr6DZWX2vpYXYdyDoKzUA_rP0/view?usp=drive_link', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'C#',
@@ -114,16 +122,23 @@ const CONFIG = {
     {
       company: 'Pollen Sense',
       position: 'Full Stack Developer / Database Manager / API Developer',
-      from: 'April 2020',
+      from: 'Jan 2022',
       to: 'Present',
+      companyLink: 'https://pollensense.com',
+    },
+    {
+      company: 'Pollen Sense',
+      position: 'Full Stack Developer',
+      from: 'Apr 2020',
+      to: 'Jan 2022',
       companyLink: 'https://pollensense.com',
     },
     {
       company: 'English as a second Language Teacher',
       position: 'Teacher',
       from: '2018',
-      to: 'April 2020',
-      companyLink: 'https://example.com',
+      to: 'Apr 2020',
+      companyLink: 'https://www.eslcenter.org/di-english',
     },
     {
       company: 'Digithought',
