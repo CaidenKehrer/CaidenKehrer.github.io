@@ -121,9 +121,16 @@ const CONFIG = {
   experiences: [
     {
       company: 'Pollen Sense',
-      position: 'Full Stack Developer / Database Manager / API Developer',
-      from: 'Jan 2022',
+      position: 'Senior Full Stack Developer / Database Manager',
+      from: 'Jul 2024',
       to: 'Present',
+      companyLink: 'https://pollensense.com',
+    },
+    {
+      company: 'Pollen Sense',
+      position: 'Full Stack Developer / API Developer',
+      from: 'Jan 2022',
+      to: 'Jul 2024',
       companyLink: 'https://pollensense.com',
     },
     {
