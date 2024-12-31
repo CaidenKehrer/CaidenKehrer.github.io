@@ -166,7 +166,7 @@ const CONFIG = {
   educations: [
     {
       institution: 'Utah Valley University',
-      degree: 'Bachelors',
+      degree: 'Bachelors Of Science',
       from: '2020',
       to: '2023',
     },
