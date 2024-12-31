@@ -102,7 +102,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/13-bRPFfmr6DZWX2vpYXYdyDoKzUA_rP0/view?usp=drive_link', // Empty fileUrl will hide the `Download Resume` button.
+      'https://docs.google.com/document/d/1quwQTaFDkdHnkO8t68FD8zOeYQx0xLbw/edit?usp=sharing&ouid=107833359142378996541&rtpof=true&sd=true', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'C#',
