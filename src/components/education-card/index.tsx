@@ -3,11 +3,9 @@ import { SanitizedEducation } from '../../interfaces/sanitized-config';
 import { skeleton } from '../../utils';
 
 const ListItem = ({
-  time,
   degree,
   institution,
 }: {
-  time: React.ReactNode;
   degree?: React.ReactNode;
   institution?: React.ReactNode;
 }) => (
@@ -34,10 +32,6 @@ const EducationCard = ({
       array.push(
         <ListItem
           key={index}
-          time={skeleton({
-            widthCls: 'w-5/12',
-            heightCls: 'h-4',
-          })}
           degree={skeleton({
             widthCls: 'w-6/12',
             heightCls: 'h-4',
@@ -72,7 +66,6 @@ const EducationCard = ({
                 {educations.map((item, index) => (
                   <ListItem
                     key={index}
-                    time={`${item.from} - ${item.to}`}
                     degree={item.degree}
                     institution={item.institution}
                   />
