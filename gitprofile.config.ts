@@ -55,7 +55,7 @@ const CONFIG = {
             'Designed and implemented the moddeling system used by Microsoft and other large companies to obtain predicted and measured data for mapping systems.',
           imageUrl:
             'https://assets-global.website-files.com/5f89c9bc7ce1cb5647f27ccc/5f9afc2c43b65f1335a34507_Maps%20composite%20for%20API.jpg',
-          link: 'https://www.pollensense.com/pages/data-api',
+          link: 'https://www.pollensense.com/market',
         },
         
         {
@@ -64,7 +64,7 @@ const CONFIG = {
             'Created the automated particulate measurement system used by hundreds of sensors actively around the world to identify and categorize particulates at a microscopic scale.',
           imageUrl:
             'https://assets-global.website-files.com/5f89c9bc7ce1cb5647f27ccc/6214305326bef22f5a843a97_PS400-Transarent-1-Top%2C-Bottom-shadow-WEBRES.png',
-          link: 'https://www.pollensense.com/pages/automated-particle-sensors',
+          link: 'https://www.pollensense.com/sensors',
         },
         {
           title: 'Azure Management',
@@ -92,7 +92,6 @@ const CONFIG = {
     dribbble: '',
     behance: '',
     medium: '',
-    dev: 'caiden-kehrer',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
@@ -167,14 +166,10 @@ const CONFIG = {
     {
       institution: 'Utah Valley University',
       degree: 'Bachelors Of Science',
-      from: '2020',
-      to: '2023',
     },
     {
       institution: 'Utah Valley University',
       degree: 'Associates Of Science',
-      from: '2016',
-      to: '2018',
     },
   ],
   publications: [
